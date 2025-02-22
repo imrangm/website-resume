@@ -6,8 +6,8 @@ title: 吳健雄
 name_pronunciation: Imran Mustafa
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Imran
+last_name: Mustafa
 
 # Status emoji
 status:
